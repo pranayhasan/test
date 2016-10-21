@@ -1,0 +1,6 @@
+NEWS
+* Want to validate your pig scripts before uploading to Azkaban? Check go/hadoopvalidator
+* Want to resolve interpreter dependencies and run pig scripts against them? Check go/bangbang
+* Want to run your flows, get flow status etc from commandline? Check go/azkabancli
+ALERT
+* NEW Hadoop projects created in WAR on/after Nov 1st shall be rejected if not uploaded using Hadoop CRT. Check go/HadoopCRT
